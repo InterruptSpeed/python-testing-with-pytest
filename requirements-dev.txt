@@ -1,3 +1,4 @@
+wheel
 pytest
 black
 flake8
